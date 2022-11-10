@@ -1,4 +1,6 @@
-# Hi, I'm Sébastien Perrault, Computational Designer and Engineer
+# Hi, I'm Sébastien Perrault
+
+## Computational Designer and Engineer
 
 ## Connect with me
 
