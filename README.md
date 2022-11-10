@@ -17,9 +17,7 @@
 
 <br>
 
- ## Spotify Playing 🎧
-
- [![Spotify](https://novatorem.jvelez-s.vercel.app//api/spotify)](https://open.spotify.com/user/sperrault)
+ 
 
 <!-- Abbreviationss -->
 
