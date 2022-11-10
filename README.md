@@ -1,4 +1,4 @@
-# Hi, I'm Sébastien Perrault
+# Hi, I'm Sébastien Perrault 👋
 
 I'm a Computational Designer and Engineer based in Paris. 
 
