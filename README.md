@@ -1,6 +1,6 @@
 # Hi, I'm Sébastien Perrault
 
-## Computational Designer and Engineer
+I'm a Computational Designer and Engineer based in Paris. 
 
 ## Connect with me
 
