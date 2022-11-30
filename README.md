@@ -16,9 +16,9 @@ I'm a Computational Designer and Engineer based in Paris.
 <img align="left" alt="Ladybug Tools" width="26px" src="https://www.ladybug.tools/assets/img/logo.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<br>
+<br><br><br>
 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sperrault&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=ffffb3&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sperrault&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- Abbreviationss -->
 
