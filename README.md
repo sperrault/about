@@ -5,8 +5,8 @@ I'm a Computational Designer and Engineer based in Paris.
 ## Connect with me
 
 [<img width="22" src="https://cdn.simpleicons.org/twitter.svg/gray" />][twitter]
-[<img width="22" src="https://cdn.simpleicons.org/instagram.svg/gray" />][instagram]
-[<img width="22" src="https://cdn.simpleicons.org/linkedin.svg/53b14f" />][linkedin]
+[<img width="22" src="https://cdn.simpleicons.org/instagram/gray" />][instagram]
+[<img width="22" src="https://cdn.simpleicons.org/linkedin/53b14f" />][linkedin]
 <br>
 
 ## Languages and Tools:
