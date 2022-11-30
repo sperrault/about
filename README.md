@@ -4,9 +4,9 @@ I'm a Computational Designer and Engineer based in Paris.
 
 ## Connect with me
 
-<a href="http://twitter.com/sperrault" target="_blank"><img width="22" src="https://cdn.simpleicons.org/twitter/53b14f" /></a>
-[<img width="22" src="https://cdn.simpleicons.org/instagram/53b14f" />][instagram]
-[<img width="22" src="https://cdn.simpleicons.org/linkedin/53b14f" />][linkedin]
+<a href="http://twitter.com/s_perrault" target="_blank"><img width="22" src="https://cdn.simpleicons.org/twitter/53b14f" /></a>  
+<a href="https://www.instagram.com/echoes_paris" target="_blank"><img width="22" src="https://cdn.simpleicons.org/instagram/53b14f" /></a>  
+<a href="https://www.linkedin.com/in/sebastienperrault" target="_blank"><img width="22" src="https://cdn.simpleicons.org/linkedin/53b14f" /></a>
 <br>
 
 ## Languages and Tools:
@@ -18,6 +18,7 @@ I'm a Computational Designer and Engineer based in Paris.
 
 <br><br><br>
 
+## Now listening:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sperrault&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- Abbreviationss -->
