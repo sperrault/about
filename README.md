@@ -4,12 +4,12 @@ I'm a Computational Designer and Engineer based in Paris.
 
 ## Connect with me
 
-<a href="http://twitter.com/s_perrault" target="_blank"><img width="22" src="https://cdn.simpleicons.org/twitter/53b14f" /></a>  
-<a href="https://www.instagram.com/echoes_paris" target="_blank"><img width="22" src="https://cdn.simpleicons.org/instagram/53b14f" /></a>  
-<a href="https://www.linkedin.com/in/sebastienperrault" target="_blank"><img width="22" src="https://cdn.simpleicons.org/linkedin/53b14f" /></a>
+<a href="http://twitter.com/s_perrault" target="_blank"><img width="22" src="https://cdn.simpleicons.org/twitter/53b14f" /></a>  personal  
+<a href="https://www.instagram.com/echoes_paris" target="_blank"><img width="22" src="https://cdn.simpleicons.org/instagram/53b14f" /></a>  echoes.paris
+<a href="https://www.linkedin.com/in/sebastienperrault" target="_blank"><img width="22" src="https://cdn.simpleicons.org/linkedin/53b14f" /></a> personal
 <br>
 
-## Languages and Tools:
+## Languages and Tools
 
 <img align="left" alt="Rhino3D" width="26px" src="https://w7.pngwing.com/pngs/454/77/png-transparent-rhinoceros-3d-computer-icons-rhino-rhino-rhino-logo-white-3d-computer-graphics-mammal-thumbnail.png" />
 <img align="left" alt="Grasshopper3D" width="26px" src="https://seeklogo.com/images/G/grasshopper-3d-logo-B55A18550D-seeklogo.com.png" />
@@ -18,11 +18,6 @@ I'm a Computational Designer and Engineer based in Paris.
 
 <br><br><br>
 
-## Now listening:
+## Now listening
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sperrault&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<!-- Abbreviationss -->
-
-[twitter]: https://twitter.com/s_perrault
-[instagram]: https://instagram.com/sebastienperrault
-[linkedin]: https://www.linkedin.com/in/sebastienperrault
