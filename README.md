@@ -4,7 +4,7 @@ I'm a Computational Designer and Engineer based in Paris.
 
 ## Connect with me
 
-[<img align="left" alt="sperrault | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter.svg" />][twitter]
+[<img align="left" alt="sperrault | Twitter" width="22" src="https://cdn.simpleicons.org/twitter" />][twitter]
 [<img align="left" alt="sperrault | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="sperrault | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
