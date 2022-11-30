@@ -4,9 +4,9 @@ I'm a Computational Designer and Engineer based in Paris.
 
 ## Connect with me
 
-[<img width="22" src="https://cdn.simpleicons.org/twitter/gray" />][twitter]
+[<img width="22" src="https://cdn.simpleicons.org/twitter.svg/gray" />][twitter]
 [<img width="22" src="https://cdn.simpleicons.org/instagram.svg/gray" />][instagram]
-[<img align="left" alt="sperrault | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img width="22" src="https://cdn.simpleicons.org/linkedin.svg/53b14f" />][linkedin]
 <br>
 
 ## Languages and Tools:
